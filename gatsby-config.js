@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'SA Freedom Fighters',
     message: 'site coming soon',
-    pattern: 'Japanese cube',
-    color: '#FB2026',
+    pattern: 'Weave',
+    color: '#212121',
     titleFont: 'Courgette',
     messageFont: 'Roboto',
     social: []
