@@ -3,7 +3,7 @@ module.exports = {
     title: 'SA Freedom Fighters',
     message: 'site coming soon',
     pattern: 'Japanese cube',
-    color: '#C3191C',
+    color: '#FB2026',
     titleFont: 'Courgette',
     messageFont: 'Roboto',
     social: []
